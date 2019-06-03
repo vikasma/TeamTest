@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ 
+<!DOCTYPE log4j:configuration SYSTEM "log4j.dtd">
+ 
+<log4j:configuration xmlns:log4j="http://jakarta.apache.org/log4j/" debug="false">
+ 
+<appender name="fileAppender" class="org.apache.log4j.FileAppender">
+ 
+<param name="Threshold" value="INFO" />
+ 
+<param name="File" value="./log/logfile.log"></param>
+ 
+<layout class="org.apache.log4j.PatternLayout">
+ 
+<param name="ConversionPattern" value="%d %-5p [%c{1}] %m %n" />
+ 
+</layout>
+ 
+</appender>
+
+<appender name="default.console" class="org.apache.log4j.ConsoleAppender">
+ 
+<param name="Threshold" value="INFO" />
+ 
+<layout class="org.apache.log4j.PatternLayout">
+ 
+<param name="ConversionPattern" value="%d %-5p [%c{1}] %m %n" />
+ 
+</layout>
+ 
+</appender>
+
+<appender name="log" class="org.apache.log4j.FileAppender">
+    <param name="file" value="./log/log4j.html"/>
+    <param name="threshold" value="debug"/>
+    <param name="immediateFlush" value="true"/>
+    <param name="append" value="false"/>
+    <layout class="org.apache.log4j.HTMLLayout">
+        <param name="Title" value="Application logs"/>
+        <param name="LocationInfo" value="true"/>
+    </layout>
+</appender>
+
+<root>
+ 
+<level value="INFO"/>
+ 
+<appender-ref ref="fileAppender"/>
+<appender-ref ref="default.console"/>
+<appender-ref ref="log"/>
+ 
+</root>
+ 
+</log4j:configuration>

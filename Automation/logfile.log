@@ -1,0 +1,780 @@
+2018-06-04 00:26:54,291 INFO  [Log] **************************************************************************************** 
+2018-06-04 00:26:54,291 INFO  [Log] **************************************************************************************** 
+2018-06-04 00:26:54,291 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Sample       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-06-04 00:26:54,291 INFO  [Log] **************************************************************************************** 
+2018-06-04 00:26:54,291 INFO  [Log] **************************************************************************************** 
+2018-06-04 00:27:11,059 INFO  [Log] Completed executing Login testCases 
+2018-06-04 00:27:50,803 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-06-04 00:27:50,803 INFO  [Log] X 
+2018-06-04 00:27:50,803 INFO  [Log] X 
+2018-06-04 00:27:50,803 INFO  [Log] X 
+2018-06-04 00:27:50,803 INFO  [Log] X 
+2018-06-04 00:29:04,094 INFO  [Log] **************************************************************************************** 
+2018-06-04 00:29:04,094 INFO  [Log] **************************************************************************************** 
+2018-06-04 00:29:04,094 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Sample       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-06-04 00:29:04,094 INFO  [Log] **************************************************************************************** 
+2018-06-04 00:29:04,094 INFO  [Log] **************************************************************************************** 
+2018-06-04 00:29:20,558 INFO  [Log] Completed executing Login testCases 
+2018-06-04 00:29:40,124 INFO  [Log] Completed executing Notes test case 
+2018-06-04 00:30:33,899 INFO  [Log] Completed executing Reminder test case 
+2018-06-04 00:30:50,697 INFO  [Log] Completed executing Todos test case 
+2018-06-04 00:30:50,697 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-06-04 00:30:50,697 INFO  [Log] X 
+2018-06-04 00:30:50,697 INFO  [Log] X 
+2018-06-04 00:30:50,697 INFO  [Log] X 
+2018-06-04 00:30:50,697 INFO  [Log] X 
+2018-06-04 01:04:10,428 INFO  [Log] Completed executing Login testCases 
+2018-06-04 01:05:04,147 INFO  [Log] Completed executing Reminder test case 
+2018-06-04 01:18:17,677 INFO  [Log] Completed executing Login testCases 
+2018-06-04 01:19:12,581 INFO  [Log] Completed executing Reminder test case 
+2018-06-04 01:21:51,149 INFO  [Log] Completed executing Login testCases 
+2018-06-04 01:24:06,628 INFO  [Log] Completed executing Login testCases 
+2018-06-04 01:33:17,535 INFO  [Log] Completed executing Login testCases 
+2018-06-04 01:36:29,906 INFO  [Log] Completed executing Login testCases 
+2018-06-04 01:39:07,975 INFO  [Log] Completed executing Login testCases 
+2018-06-04 01:39:28,309 INFO  [Log] Completed executing Notes test case 
+2018-06-04 01:40:21,835 INFO  [Log] Completed executing Reminder test case 
+2018-06-04 01:40:38,359 INFO  [Log] Completed executing Todos test case 
+2018-06-04 15:50:22,896 INFO  [Log] Completed executing Login testCases 
+2018-06-04 15:50:42,298 INFO  [Log] Completed executing Notes test case 
+2018-06-04 15:51:37,461 INFO  [Log] Completed executing Reminder test case 
+2018-06-04 15:51:53,926 INFO  [Log] Completed executing Todos test case 
+2018-06-04 16:06:24,987 INFO  [Log] Completed executing Login testCases 
+2018-06-04 16:06:45,416 INFO  [Log] Completed executing Notes test case 
+2018-06-04 16:07:39,858 INFO  [Log] Completed executing Reminder test case 
+2018-06-04 16:07:56,334 INFO  [Log] Completed executing Todos test case 
+2018-06-04 16:12:31,649 INFO  [Log] Completed executing Login testCases 
+2018-06-04 16:12:50,259 INFO  [Log] Completed executing Notes test case 
+2018-06-04 16:13:43,471 INFO  [Log] Completed executing Reminder test case 
+2018-06-04 16:13:59,984 INFO  [Log] Completed executing Todos test case 
+2018-06-04 16:26:15,564 INFO  [Log] Completed executing Login testCases 
+2018-06-04 16:26:33,977 INFO  [Log] Completed executing Notes test case 
+2018-06-04 16:27:28,587 INFO  [Log] Completed executing Reminder test case 
+2018-06-04 16:27:45,036 INFO  [Log] Completed executing Todos test case 
+2018-06-04 16:30:58,253 INFO  [Log] Completed executing Login testCases 
+2018-06-04 16:31:18,770 INFO  [Log] Completed executing Notes test case 
+2018-06-04 16:32:14,414 INFO  [Log] Completed executing Reminder test case 
+2018-06-04 16:32:30,372 INFO  [Log] Completed executing Todos test case 
+2018-06-04 17:05:18,415 INFO  [Log] Completed executing Login testCases 
+2018-06-04 17:10:18,066 INFO  [Log] Completed executing Login testCases 
+2018-06-04 17:10:38,211 INFO  [Log] Completed executing Notes test case 
+2018-06-04 18:13:10,297 INFO  [Log] Completed executing Login testCases 
+2018-06-04 18:13:29,844 INFO  [Log] Completed executing Notes test case 
+2018-06-04 18:15:54,033 INFO  [Log] Completed executing Login testCases 
+2018-06-04 18:16:14,586 INFO  [Log] Completed executing Notes test case 
+2018-06-04 18:17:09,587 INFO  [Log] Completed executing Reminder test case 
+2018-06-04 18:17:25,825 INFO  [Log] Completed executing Todos test case 
+2018-06-04 18:25:59,260 INFO  [Log] Completed executing Login testCases 
+2018-06-04 18:29:17,917 INFO  [Log] Completed executing Notes test case 
+2018-06-04 18:30:30,580 INFO  [Log] Completed executing Reminder test case 
+2018-06-04 18:30:46,562 INFO  [Log] Completed executing Todos test case 
+2018-06-04 18:46:51,163 INFO  [Log] Completed executing Login testCases 
+2018-06-04 18:47:10,987 INFO  [Log] Completed executing Notes test case 
+2018-06-04 18:48:06,031 INFO  [Log] Completed executing Reminder test case 
+2018-06-04 18:48:22,393 INFO  [Log] Completed executing Todos test case 
+2018-06-04 20:06:34,329 INFO  [Log] Completed executing Login testCases 
+2018-06-04 20:06:54,111 INFO  [Log] Completed executing Notes test case 
+2018-06-04 20:07:49,469 INFO  [Log] Completed executing Reminder test case 
+2018-06-04 20:08:05,354 INFO  [Log] Completed executing Todos test case 
+2018-06-04 20:22:47,929 INFO  [Log] Completed executing Login testCases 
+2018-06-04 20:23:06,668 INFO  [Log] Completed executing Notes test case 
+2018-06-04 20:24:01,235 INFO  [Log] Completed executing Reminder test case 
+2018-06-04 20:24:18,244 INFO  [Log] Completed executing Todos test case 
+2018-06-04 20:45:28,607 INFO  [Log] Completed executing Login testCases 
+2018-06-04 20:45:47,324 INFO  [Log] Completed executing Notes test case 
+2018-06-04 20:46:42,498 INFO  [Log] Completed executing Reminder test case 
+2018-06-04 20:46:59,264 INFO  [Log] Completed executing Todos test case 
+2018-06-04 20:56:51,137 INFO  [Log] Completed executing Login testCases 
+2018-06-04 20:57:11,352 INFO  [Log] Completed executing Notes test case 
+2018-06-04 20:58:05,704 INFO  [Log] Completed executing Reminder test case 
+2018-06-04 20:58:21,722 INFO  [Log] Completed executing Todos test case 
+2018-06-04 21:14:57,419 INFO  [Log] Completed executing Login testCases 
+2018-06-04 21:15:18,152 INFO  [Log] Completed executing Notes test case 
+2018-06-04 21:16:13,635 INFO  [Log] Completed executing Reminder test case 
+2018-06-04 21:16:30,621 INFO  [Log] Completed executing Todos test case 
+2018-06-04 22:13:29,857 INFO  [Log] Completed executing Login testCases 
+2018-06-04 22:19:12,320 INFO  [Log] Completed executing Login testCases 
+2018-06-04 22:19:31,710 INFO  [Log] Completed executing Notes test case 
+2018-06-04 22:22:22,865 INFO  [Log] Completed executing Login testCases 
+2018-06-04 22:22:42,690 INFO  [Log] Completed executing Notes test case 
+2018-06-04 22:26:44,986 INFO  [Log] Completed executing Login testCases 
+2018-06-04 22:27:05,407 INFO  [Log] Completed executing Notes test case 
+2018-06-04 22:29:44,956 INFO  [Log] Completed executing Login testCases 
+2018-06-04 22:30:04,298 INFO  [Log] Completed executing Notes test case 
+2018-06-04 22:36:04,176 INFO  [Log] Completed executing Login testCases 
+2018-06-04 22:36:22,886 INFO  [Log] Completed executing Notes test case 
+2018-06-04 22:43:49,013 INFO  [Log] Completed executing Login testCases 
+2018-06-04 22:44:07,958 INFO  [Log] Completed executing Notes test case 
+2018-06-04 22:48:44,446 INFO  [Log] Completed executing Login testCases 
+2018-06-04 22:49:04,703 INFO  [Log] Completed executing Notes test case 
+2018-06-04 22:49:59,541 INFO  [Log] Completed executing Reminder test case 
+2018-06-04 22:50:16,527 INFO  [Log] Completed executing Todos test case 
+2018-06-04 22:52:35,618 INFO  [Log] Completed executing Login testCases 
+2018-06-04 22:52:55,199 INFO  [Log] Completed executing Notes test case 
+2018-06-04 22:53:49,249 INFO  [Log] Completed executing Reminder test case 
+2018-06-04 22:54:05,987 INFO  [Log] Completed executing Todos test case 
+2018-06-04 22:58:48,340 INFO  [Log] Completed executing Login testCases 
+2018-06-04 23:06:50,499 INFO  [Log] Completed executing Login testCases 
+2018-06-04 23:13:13,085 INFO  [Log] Completed executing Login testCases 
+2018-06-04 23:17:28,599 INFO  [Log] Completed executing Login testCases 
+2018-06-04 23:19:55,569 INFO  [Log] Completed executing Login testCases 
+2018-06-04 23:20:30,912 INFO  [Log] Completed executing Notes test case 
+2018-06-04 23:24:47,761 INFO  [Log] Completed executing Login testCases 
+2018-06-04 23:25:23,044 INFO  [Log] Completed executing Notes test case 
+2018-06-04 23:27:21,242 INFO  [Log] Completed executing Login testCases 
+2018-06-04 23:27:52,783 INFO  [Log] Completed executing Notes test case 
+2018-06-04 23:29:10,598 INFO  [Log] Completed executing Reminder test case 
+2018-06-04 23:29:27,549 INFO  [Log] Completed executing Todos test case 
+2018-06-04 23:30:38,250 INFO  [Log] Completed executing Login testCases 
+2018-06-04 23:31:09,490 INFO  [Log] Completed executing Notes test case 
+2018-06-04 23:34:01,175 INFO  [Log] Completed executing Login testCases 
+2018-06-04 23:34:32,355 INFO  [Log] Completed executing Notes test case 
+2018-06-04 23:37:05,567 INFO  [Log] Completed executing Login testCases 
+2018-06-04 23:37:35,177 INFO  [Log] Completed executing Notes test case 
+2018-06-04 23:39:13,653 INFO  [Log] Completed executing Reminder test case 
+2018-06-04 23:39:30,744 INFO  [Log] Completed executing Todos test case 
+2018-06-05 00:18:39,951 INFO  [Log] Completed executing Login testCases 
+2018-06-05 00:19:10,504 INFO  [Log] Completed executing Notes test case 
+2018-06-05 00:20:48,762 INFO  [Log] Completed executing Reminder test case 
+2018-06-05 00:21:05,663 INFO  [Log] Completed executing Todos test case 
+2018-06-05 00:29:24,821 INFO  [Log] Completed executing Login testCases 
+2018-06-05 00:29:55,817 INFO  [Log] Completed executing Notes test case 
+2018-06-05 00:31:33,085 INFO  [Log] Completed executing Reminder test case 
+2018-06-05 00:31:49,809 INFO  [Log] Completed executing Todos test case 
+2018-06-05 00:34:37,993 INFO  [Log] Completed executing Login testCases 
+2018-06-05 00:35:08,456 INFO  [Log] Completed executing Notes test case 
+2018-06-05 00:35:54,558 INFO  [Log] Completed executing Login testCases 
+2018-06-05 00:36:33,817 INFO  [Log] Completed executing Notes test case 
+2018-06-05 18:00:03,648 INFO  [Log] Completed executing Reminder test case 
+2018-06-05 18:04:25,734 INFO  [Log] Completed executing Notes test case 
+2018-06-05 18:14:49,678 INFO  [Log] Completed executing Notes test case 
+2018-06-05 18:19:37,556 INFO  [Log] Completed executing Notes test case 
+2018-06-05 18:22:09,666 INFO  [Log] Completed executing Notes test case 
+2018-06-05 18:28:22,422 INFO  [Log] Notification dialog after signing in is not shown 
+2018-06-05 18:28:29,961 INFO  [Log] Completed executing Login testCases 
+2018-06-05 18:29:01,029 INFO  [Log] Completed executing Notes test case 
+2018-06-05 19:36:53,548 INFO  [Log] Notification dialog after signing in is not shown 
+2018-06-05 19:37:01,869 INFO  [Log] Completed executing Login testCases 
+2018-06-05 19:37:32,987 INFO  [Log] Completed executing Notes test case 
+2018-06-05 19:39:10,271 INFO  [Log] Notification dialog after signing in is not shown 
+2018-06-05 19:39:19,341 INFO  [Log] Completed executing Login testCases 
+2018-06-05 19:39:50,286 INFO  [Log] Completed executing Notes test case 
+2018-06-05 19:45:55,005 INFO  [Log] Notification dialog after signing in is not shown 
+2018-06-05 19:46:02,337 INFO  [Log] Completed executing Login testCases 
+2018-06-05 19:46:34,666 INFO  [Log] Completed executing Notes test case 
+2018-06-05 23:12:16,136 INFO  [Log] Notification dialog after signing in is not shown 
+2018-06-05 23:12:25,417 INFO  [Log] Completed executing Login testCases 
+2018-06-05 23:12:57,597 INFO  [Log] Completed executing Notes test case 
+2018-06-05 23:15:46,142 INFO  [Log] Notification dialog after signing in is not shown 
+2018-06-05 23:15:54,785 INFO  [Log] Completed executing Login testCases 
+2018-06-05 23:19:34,125 INFO  [Log] Completed executing Notes test case 
+2018-06-05 23:22:10,618 INFO  [Log] Notification dialog after signing in is not shown 
+2018-06-05 23:22:18,932 INFO  [Log] Completed executing Login testCases 
+2018-06-05 23:22:49,498 INFO  [Log] Completed executing Notes test case 
+2018-06-06 00:24:59,770 INFO  [Log] Notification dialog after signing in is not shown 
+2018-06-06 00:25:08,143 INFO  [Log] Completed executing Login testCases 
+2018-06-06 00:25:40,964 INFO  [Log] Completed executing Notes test case 
+2018-06-06 00:28:48,185 INFO  [Log] Notification dialog after signing in is not shown 
+2018-06-06 00:28:58,232 INFO  [Log] Completed executing Login testCases 
+2018-06-06 00:29:31,064 INFO  [Log] Completed executing Notes test case 
+2018-06-06 00:33:21,280 INFO  [Log] Notification dialog after signing in is not shown 
+2018-06-06 00:33:31,067 INFO  [Log] Completed executing Login testCases 
+2018-06-06 00:34:02,935 INFO  [Log] Completed executing Notes test case 
+2018-06-06 00:37:17,976 INFO  [Log] Notification dialog after signing in is not shown 
+2018-06-06 00:37:27,991 INFO  [Log] Completed executing Login testCases 
+2018-06-06 00:38:01,722 INFO  [Log] Completed executing Notes test case 
+2018-06-06 00:40:11,667 INFO  [Log] Notification dialog after signing in is not shown 
+2018-06-06 00:40:21,951 INFO  [Log] Completed executing Login testCases 
+2018-06-06 00:40:54,393 INFO  [Log] Completed executing Notes test case 
+2018-06-06 00:43:24,226 INFO  [Log] Notification dialog after signing in is not shown 
+2018-06-06 00:43:32,561 INFO  [Log] Completed executing Login testCases 
+2018-06-06 00:44:06,170 INFO  [Log] Completed executing Notes test case 
+2018-06-06 00:53:10,474 INFO  [Log] Notification dialog after signing in is not shown 
+2018-06-06 00:53:18,003 INFO  [Log] Completed executing Login testCases 
+2018-06-06 00:53:49,671 INFO  [Log] Completed executing Notes test case 
+2018-06-06 00:55:43,401 INFO  [Log] Notification dialog after signing in is not shown 
+2018-06-06 00:55:52,392 INFO  [Log] Completed executing Login testCases 
+2018-06-06 00:56:24,615 INFO  [Log] Completed executing Notes test case 
+2018-06-06 01:01:10,487 INFO  [Log] Notification dialog after signing in is not shown 
+2018-06-06 01:01:20,099 INFO  [Log] Completed executing Login testCases 
+2018-06-06 01:01:52,452 INFO  [Log] Completed executing Notes test case 
+2018-06-06 01:18:34,292 INFO  [Log] Notification dialog after signing in is not shown 
+2018-06-06 01:18:43,277 INFO  [Log] Completed executing Login testCases 
+2018-06-06 01:20:23,283 INFO  [Log] Notification dialog after signing in is not shown 
+2018-06-06 01:20:31,707 INFO  [Log] Completed executing Login testCases 
+2018-06-06 01:21:04,448 INFO  [Log] Completed executing Notes test case 
+2018-06-06 01:30:47,546 INFO  [Log] Notification dialog after signing in is not shown 
+2018-06-06 01:30:56,390 INFO  [Log] Completed executing Login testCases 
+2018-06-06 01:33:44,875 INFO  [Log] Notification dialog after signing in is not shown 
+2018-06-06 01:33:52,206 INFO  [Log] Completed executing Login testCases 
+2018-06-06 01:34:25,653 INFO  [Log] Completed executing Notes test case 
+2018-06-06 01:44:35,607 INFO  [Log] Notification dialog after signing in is not shown 
+2018-06-06 01:44:44,161 INFO  [Log] Completed executing Login testCases 
+2018-06-06 01:45:16,553 INFO  [Log] Completed executing Notes test case 
+2018-06-06 01:50:02,397 INFO  [Log] Notification dialog after signing in is not shown 
+2018-06-06 01:50:09,741 INFO  [Log] Completed executing Login testCases 
+2018-06-06 01:50:42,785 INFO  [Log] Completed executing Notes test case 
+2018-06-06 01:54:36,445 INFO  [Log] Notification dialog after signing in is not shown 
+2018-06-06 01:54:45,311 INFO  [Log] Completed executing Login testCases 
+2018-06-06 01:55:18,114 INFO  [Log] Completed executing Notes test case 
+2018-06-06 01:59:02,339 INFO  [Log] Notification dialog after signing in is not shown 
+2018-06-06 01:59:10,507 INFO  [Log] Completed executing Login testCases 
+2018-06-06 01:59:42,629 INFO  [Log] Completed executing Notes test case 
+2018-06-06 02:01:42,766 INFO  [Log] Notification dialog after signing in is not shown 
+2018-06-06 02:01:51,589 INFO  [Log] Completed executing Login testCases 
+2018-06-06 02:02:23,070 INFO  [Log] Completed executing Notes test case 
+2018-06-06 02:08:17,274 INFO  [Log] Notification dialog after signing in is not shown 
+2018-06-06 02:08:25,715 INFO  [Log] Completed executing Login testCases 
+2018-06-06 02:08:57,138 INFO  [Log] Completed executing Notes test case 
+2018-06-06 02:12:04,318 INFO  [Log] Notification dialog after signing in is not shown 
+2018-06-06 02:12:11,674 INFO  [Log] Completed executing Login testCases 
+2018-06-06 02:12:43,301 INFO  [Log] Completed executing Notes test case 
+2018-06-06 09:30:03,056 INFO  [Log] Notification dialog after signing in is not shown 
+2018-06-06 09:30:10,317 INFO  [Log] Completed executing Login testCases 
+2018-06-06 09:30:10,321 INFO  [Log] method name:testCases 
+2018-06-06 09:30:42,985 INFO  [Log] Completed executing Notes test case 
+2018-06-06 09:30:42,997 INFO  [Log] method name:testCasesNotes 
+2018-06-06 09:34:46,448 INFO  [Log] Notification dialog after signing in is not shown 
+2018-06-06 09:34:54,861 INFO  [Log] Completed executing Login testCases 
+2018-06-06 09:34:54,864 INFO  [Log] method name:testCases 
+2018-06-06 09:35:25,539 INFO  [Log] Completed executing Notes test case 
+2018-06-06 09:35:25,542 INFO  [Log] method name:testCasesNotes 
+2018-06-06 09:45:08,196 INFO  [Log] Notification dialog after signing in is not shown 
+2018-06-06 09:45:15,702 INFO  [Log] Completed executing Login testCases 
+2018-06-06 09:45:15,723 INFO  [Log] method name:testCases 
+2018-06-06 09:47:54,852 INFO  [Log] Notification dialog after signing in is not shown 
+2018-06-06 09:48:02,623 INFO  [Log] Completed executing Login testCases 
+2018-06-06 09:48:02,638 INFO  [Log] method name:testCases 
+2018-06-06 10:06:02,162 INFO  [Log] Notification dialog after signing in is not shown 
+2018-06-06 10:06:11,529 INFO  [Log] Completed executing Login testCases 
+2018-06-06 10:06:11,536 INFO  [Log] method name:testCases 
+2018-06-06 10:09:04,631 INFO  [Log] Notification dialog after signing in is not shown 
+2018-06-06 10:09:14,160 INFO  [Log] Completed executing Login testCases 
+2018-06-06 10:09:14,165 INFO  [Log] method name:testCases 
+2018-06-06 10:09:38,296 INFO  [Log] method name:testCasesNotes 
+2018-06-06 10:09:38,345 ERROR [Log] method name:testCasesNotes 
+2018-06-06 10:13:55,727 INFO  [Log] Notification dialog after signing in is not shown 
+2018-06-06 10:14:03,421 INFO  [Log] Completed executing Login testCases 
+2018-06-06 10:14:03,430 INFO  [Log] method name:testCases 
+2018-06-06 10:16:20,650 INFO  [Log] Notification dialog after signing in is not shown 
+2018-06-06 10:16:27,992 INFO  [Log] Completed executing Login testCases 
+2018-06-06 10:16:27,996 INFO  [Log] method name:testCases 
+2018-06-06 12:33:20,959 INFO  [Log] Notification dialog after signing in is not shown 
+2018-06-06 12:33:29,754 INFO  [Log] Completed executing Login testCases 
+2018-06-06 12:33:29,769 INFO  [Log] method name:testCases 
+2018-06-06 12:43:04,223 INFO  [Log] Notification dialog after signing in is not shown 
+2018-06-06 12:43:11,624 INFO  [Log] Completed executing Login testCases 
+2018-06-06 12:43:11,628 INFO  [Log] method name:testCases 
+2018-06-06 12:43:34,206 INFO  [Log] method name:testCasesNotes 
+2018-06-06 12:43:34,272 ERROR [Log] method name:testCasesNotes 
+2018-06-06 12:50:18,482 INFO  [Log] Notification dialog after signing in is not shown 
+2018-06-06 12:50:26,041 INFO  [Log] Completed executing Login testCases 
+2018-06-06 12:50:26,044 INFO  [Log] method name:testCases 
+2018-06-06 12:51:41,946 INFO  [Log] Notification dialog after signing in is not shown 
+2018-06-06 12:51:50,998 INFO  [Log] Completed executing Login testCases 
+2018-06-06 12:51:51,008 INFO  [Log] method name:testCases 
+2018-06-06 12:56:12,336 INFO  [Log] Notification dialog after signing in is not shown 
+2018-06-06 12:56:19,862 INFO  [Log] Completed executing Login testCases 
+2018-06-06 12:56:19,866 INFO  [Log] method name:testCases 
+2018-06-06 13:01:52,513 INFO  [Log] Notification dialog after signing in is not shown 
+2018-06-06 13:02:00,179 INFO  [Log] Completed executing Login testCases 
+2018-06-06 13:02:00,184 INFO  [Log] method name:testCases 
+2018-06-06 13:12:42,760 INFO  [Log] Notification dialog after signing in is not shown 
+2018-06-06 13:12:50,648 INFO  [Log] Completed executing Login testCases 
+2018-06-06 13:12:50,653 INFO  [Log] method name:testCases 
+2018-06-06 13:25:10,694 INFO  [Log] Notification dialog after signing in is not shown 
+2018-06-06 13:25:18,554 INFO  [Log] Completed executing Login testCases 
+2018-06-06 13:25:18,558 INFO  [Log] method name:testCases 
+2018-06-06 13:34:09,216 INFO  [Log] Notification dialog after signing in is not shown 
+2018-06-06 13:34:17,394 INFO  [Log] Completed executing Login testCases 
+2018-06-06 13:34:17,399 INFO  [Log] method name:testCases 
+2018-06-06 13:36:49,659 INFO  [Log] Notification dialog after signing in is not shown 
+2018-06-06 13:36:57,055 INFO  [Log] Completed executing Login testCases 
+2018-06-06 13:36:57,057 INFO  [Log] method name:testCases 
+2018-06-06 13:40:49,009 INFO  [Log] Notification dialog after signing in is not shown 
+2018-06-06 13:40:56,386 INFO  [Log] Completed executing Login testCases 
+2018-06-06 13:40:56,389 INFO  [Log] method name:testCases 
+2018-06-06 13:41:19,470 INFO  [Log] method name:testCasesNotes 
+2018-06-06 13:41:19,706 ERROR [Log] method name:testCasesNotes 
+2018-06-06 13:46:05,247 INFO  [Log] Notification dialog after signing in is not shown 
+2018-06-06 13:46:13,000 INFO  [Log] Completed executing Login testCases 
+2018-06-06 13:46:13,010 INFO  [Log] method name:testCases 
+2018-06-06 13:46:37,243 INFO  [Log] method name:testCasesNotes 
+2018-06-06 13:46:37,461 ERROR [Log] method name:testCasesNotes 
+2018-06-06 15:33:53,575 INFO  [Log] Notification dialog after signing in is not shown 
+2018-06-06 15:34:12,425 INFO  [Log] Completed executing Login testCases 
+2018-06-06 15:34:12,439 INFO  [Log] method name:testCases 
+2018-06-06 15:34:38,022 INFO  [Log] method name:testCasesNotes 
+2018-06-06 15:34:38,237 ERROR [Log] method name:testCasesNotes 
+2018-06-06 15:39:42,786 INFO  [Log] Notification dialog after signing in is not shown 
+2018-06-06 15:39:50,391 INFO  [Log] Completed executing Login testCases 
+2018-06-06 15:39:50,398 INFO  [Log] method name:testCases 
+2018-06-06 15:40:13,416 INFO  [Log] method name:testCasesNotes 
+2018-06-06 15:40:13,509 ERROR [Log] method name:testCasesNotes 
+2018-06-06 16:10:40,895 INFO  [Log] Notification dialog after signing in is not shown 
+2018-06-06 16:10:49,904 INFO  [Log] Completed executing Login testCases 
+2018-06-06 16:10:49,908 INFO  [Log] method name:testCases 
+2018-06-06 16:11:14,077 INFO  [Log] method name:testCasesNotes 
+2018-06-06 16:11:14,211 ERROR [Log] method name:testCasesNotes 
+2018-06-06 16:14:26,830 INFO  [Log] Notification dialog after signing in is not shown 
+2018-06-06 16:14:34,657 INFO  [Log] Completed executing Login testCases 
+2018-06-06 16:14:34,667 INFO  [Log] method name:testCases 
+2018-06-06 16:14:58,425 INFO  [Log] method name:testCasesNotes 
+2018-06-06 16:14:58,515 ERROR [Log] method name:testCasesNotes 
+2018-06-06 16:16:17,951 INFO  [Log] Notification dialog after signing in is not shown 
+2018-06-06 16:16:25,409 INFO  [Log] Completed executing Login testCases 
+2018-06-06 16:16:25,412 INFO  [Log] method name:testCases 
+2018-06-06 16:16:49,856 INFO  [Log] method name:testCasesNotes 
+2018-06-06 16:16:49,980 ERROR [Log] method name:testCasesNotes 
+2018-06-06 16:18:51,476 INFO  [Log] Notification dialog after signing in is not shown 
+2018-06-06 16:19:00,401 INFO  [Log] Completed executing Login testCases 
+2018-06-06 16:19:00,407 INFO  [Log] method name:testCases 
+2018-06-06 16:19:26,182 INFO  [Log] method name:testCasesNotes 
+2018-06-06 16:19:26,313 ERROR [Log] method name:testCasesNotes 
+2018-06-06 16:21:48,066 INFO  [Log] Notification dialog after signing in is not shown 
+2018-06-06 16:21:55,991 INFO  [Log] Completed executing Login testCases 
+2018-06-06 16:22:28,711 INFO  [Log] Completed executing Notes test case 
+2018-06-06 16:27:50,139 INFO  [Log] Notification dialog after signing in is not shown 
+2018-06-06 16:27:57,513 INFO  [Log] Completed executing Login testCases 
+2018-06-06 16:27:57,518 INFO  [Log] method name:testCases 
+2018-06-06 16:28:29,531 INFO  [Log] Completed executing Notes test case 
+2018-06-06 16:28:29,538 INFO  [Log] method name:testCasesNotes 
+2018-06-06 17:04:02,822 INFO  [Log] Notification dialog after signing in is not shown 
+2018-06-06 17:04:10,358 INFO  [Log] Completed executing Login testCases 
+2018-06-06 17:04:10,372 INFO  [Log] method name:testCases 
+2018-06-06 17:04:41,498 INFO  [Log] Completed executing Notes test case 
+2018-06-06 17:04:41,500 INFO  [Log] method name:testCasesNotes 
+2018-06-06 17:54:09,537 INFO  [Log] Notification dialog after signing in is not shown 
+2018-06-06 17:54:18,304 INFO  [Log] Completed executing Login testCases 
+2018-06-06 17:54:18,328 INFO  [Log] method name:testCases 
+2018-06-06 17:54:50,994 INFO  [Log] Completed executing Notes test case 
+2018-06-06 17:54:50,995 INFO  [Log] method name:testCasesNotes 
+2018-06-06 18:30:39,641 INFO  [Log] Notification dialog after signing in is not shown 
+2018-06-06 18:30:48,996 INFO  [Log] Completed executing Login testCases 
+2018-06-06 18:30:49,009 INFO  [Log] method name:testCases 
+2018-06-06 18:31:21,108 INFO  [Log] Completed executing Notes test case 
+2018-06-06 18:31:21,109 INFO  [Log] method name:testCasesNotes 
+2018-06-06 18:35:19,038 INFO  [Log] Notification dialog after signing in is not shown 
+2018-06-06 18:35:26,590 INFO  [Log] Completed executing Login testCases 
+2018-06-06 18:35:26,599 INFO  [Log] method name:testCases 
+2018-06-06 18:35:57,683 INFO  [Log] Completed executing Notes test case 
+2018-06-06 18:35:57,684 INFO  [Log] method name:testCasesNotes 
+2018-06-06 18:40:34,651 INFO  [Log] Notification dialog after signing in is not shown 
+2018-06-06 18:40:42,079 INFO  [Log] Completed executing Login testCases 
+2018-06-06 18:40:42,083 INFO  [Log] method name:testCases 
+2018-06-06 18:41:13,511 INFO  [Log] Completed executing Notes test case 
+2018-06-06 18:41:13,514 INFO  [Log] method name:testCasesNotes 
+2018-06-06 18:44:34,448 INFO  [Log] Notification dialog after signing in is not shown 
+2018-06-06 18:44:43,257 INFO  [Log] Completed executing Login testCases 
+2018-06-06 18:44:43,260 INFO  [Log] method name:testCases 
+2018-06-06 18:45:13,536 INFO  [Log] Completed executing Notes test case 
+2018-06-06 18:45:13,539 INFO  [Log] method name:testCasesNotes 
+2018-06-06 18:48:57,011 INFO  [Log] Notification dialog after signing in is not shown 
+2018-06-06 18:49:04,466 INFO  [Log] Completed executing Login testCases 
+2018-06-06 18:49:04,469 INFO  [Log] method name:testCases 
+2018-06-06 18:49:34,588 INFO  [Log] Completed executing Notes test case 
+2018-06-06 18:49:34,591 INFO  [Log] method name:testCasesNotes 
+2018-06-06 21:35:21,053 INFO  [Log] Notification dialog after signing in is not shown 
+2018-06-06 21:35:28,547 INFO  [Log] Completed executing Login testCases 
+2018-06-06 21:35:28,554 INFO  [Log] method name:testCases 
+2018-06-06 21:35:59,520 INFO  [Log] Completed executing Notes test case 
+2018-06-06 21:35:59,523 INFO  [Log] method name:testCasesNotes 
+2018-06-06 21:50:02,951 INFO  [Log] Notification dialog after signing in is not shown 
+2018-06-06 21:50:10,490 INFO  [Log] Completed executing Login testCases 
+2018-06-06 21:50:10,493 INFO  [Log] method name:testCases 
+2018-06-06 21:50:40,718 INFO  [Log] Completed executing Notes test case 
+2018-06-06 21:50:40,720 INFO  [Log] method name:testCasesNotes 
+2018-06-06 21:56:21,600 INFO  [Log] Notification dialog after signing in is not shown 
+2018-06-06 21:56:28,807 INFO  [Log] Completed executing Login testCases 
+2018-06-06 21:56:28,812 INFO  [Log] method name:testCases 
+2018-06-06 21:58:52,841 INFO  [Log] Notification dialog after signing in is not shown 
+2018-06-06 21:59:00,136 INFO  [Log] Completed executing Login testCases 
+2018-06-06 21:59:00,144 INFO  [Log] method name:testCases 
+2018-06-06 21:59:30,082 INFO  [Log] Completed executing Notes test case 
+2018-06-06 21:59:30,085 INFO  [Log] method name:testCasesNotes 
+2018-06-06 22:08:50,886 INFO  [Log] Notification dialog after signing in is not shown 
+2018-06-06 22:08:58,166 INFO  [Log] Completed executing Login testCases 
+2018-06-06 22:08:58,168 INFO  [Log] method name:testCases 
+2018-06-06 22:09:03,635 INFO  [Log] method name:testCasesNotes 
+2018-06-06 22:09:03,702 ERROR [Log] method name:testCasesNotes 
+2018-06-06 22:10:34,641 INFO  [Log] Notification dialog after signing in is not shown 
+2018-06-06 22:10:42,711 INFO  [Log] Completed executing Login testCases 
+2018-06-06 22:10:42,718 INFO  [Log] method name:testCases 
+2018-06-06 22:11:23,298 INFO  [Log] method name:testCasesNotes 
+2018-06-06 22:11:23,343 ERROR [Log] method name:testCasesNotes 
+2018-06-06 22:13:12,313 INFO  [Log] Notification dialog after signing in is not shown 
+2018-06-06 22:13:20,640 INFO  [Log] Completed executing Login testCases 
+2018-06-06 22:13:20,642 INFO  [Log] method name:testCases 
+2018-06-06 22:13:51,200 INFO  [Log] Completed executing Notes test case 
+2018-06-06 22:13:51,203 INFO  [Log] method name:testCasesNotes 
+2018-06-06 22:15:09,800 INFO  [Log] Completed executing Reminder test case 
+2018-06-06 22:15:09,803 INFO  [Log] method name:testCasesReminder 
+2018-06-06 22:31:22,535 INFO  [Log] Notification dialog after signing in is not shown 
+2018-06-06 22:31:29,738 INFO  [Log] Completed executing Login testCases 
+2018-06-06 22:31:29,743 INFO  [Log] method name:testCases 
+2018-06-06 22:32:01,752 INFO  [Log] Completed executing Notes test case 
+2018-06-06 22:32:01,753 INFO  [Log] method name:testCasesNotes 
+2018-06-06 22:33:38,762 INFO  [Log] Completed executing Reminder test case 
+2018-06-06 22:33:38,763 INFO  [Log] method name:testCasesReminder 
+2018-06-06 22:44:16,301 INFO  [Log] Notification dialog after signing in is not shown 
+2018-06-06 22:44:23,790 INFO  [Log] Completed executing Login testCases 
+2018-06-06 22:44:23,803 INFO  [Log] method name:testCases 
+2018-06-06 22:49:17,905 INFO  [Log] Notification dialog after signing in is not shown 
+2018-06-06 22:49:25,473 INFO  [Log] Completed executing Login testCases 
+2018-06-06 22:49:25,480 INFO  [Log] method name:testCases 
+2018-06-06 22:54:45,058 INFO  [Log] Notification dialog after signing in is not shown 
+2018-06-06 22:54:53,003 INFO  [Log] Completed executing Login testCases 
+2018-06-06 22:54:53,033 INFO  [Log] method name:testCases 
+2018-06-06 22:57:45,475 INFO  [Log] Notification dialog after signing in is not shown 
+2018-06-06 22:57:53,169 INFO  [Log] Completed executing Login testCases 
+2018-06-06 22:57:53,181 INFO  [Log] method name:testCases 
+2018-06-06 23:00:52,085 INFO  [Log] Notification dialog after signing in is not shown 
+2018-06-06 23:00:59,480 INFO  [Log] Completed executing Login testCases 
+2018-06-06 23:00:59,482 INFO  [Log] method name:testCases 
+2018-06-06 23:01:30,151 INFO  [Log] Completed executing Notes test case 
+2018-06-06 23:01:30,156 INFO  [Log] method name:testCasesNotes 
+2018-06-06 23:03:08,192 INFO  [Log] Completed executing Reminder test case 
+2018-06-06 23:03:08,197 INFO  [Log] method name:testCasesReminder 
+2018-06-06 23:13:42,956 INFO  [Log] Notification dialog after signing in is not shown 
+2018-06-06 23:13:50,831 INFO  [Log] Completed executing Login testCases 
+2018-06-06 23:13:50,860 INFO  [Log] method name:testCases 
+2018-06-06 23:14:21,760 INFO  [Log] Completed executing Notes test case 
+2018-06-06 23:14:21,763 INFO  [Log] method name:testCasesNotes 
+2018-06-06 23:15:58,794 INFO  [Log] Completed executing Reminder test case 
+2018-06-06 23:15:58,796 INFO  [Log] method name:testCasesReminder 
+2018-06-06 23:20:43,621 INFO  [Log] Notification dialog after signing in is not shown 
+2018-06-06 23:20:50,938 INFO  [Log] Completed executing Login testCases 
+2018-06-06 23:20:50,941 INFO  [Log] method name:testCases 
+2018-06-06 23:22:50,482 INFO  [Log] Notification dialog after signing in is not shown 
+2018-06-06 23:22:58,141 INFO  [Log] Completed executing Login testCases 
+2018-06-06 23:22:58,164 INFO  [Log] method name:testCases 
+2018-06-06 23:23:29,876 INFO  [Log] Completed executing Notes test case 
+2018-06-06 23:23:29,879 INFO  [Log] method name:testCasesNotes 
+2018-06-06 23:25:07,270 INFO  [Log] Completed executing Reminder test case 
+2018-06-06 23:25:07,280 INFO  [Log] method name:testCasesReminder 
+2018-06-06 23:31:13,550 INFO  [Log] Notification dialog after signing in is not shown 
+2018-06-06 23:31:22,483 INFO  [Log] Completed executing Login testCases 
+2018-06-06 23:31:22,490 INFO  [Log] method name:testCases 
+2018-06-06 23:31:53,325 INFO  [Log] Completed executing Notes test case 
+2018-06-06 23:31:53,325 INFO  [Log] method name:testCasesNotes 
+2018-06-06 23:33:31,506 INFO  [Log] Completed executing Reminder test case 
+2018-06-06 23:33:31,509 INFO  [Log] method name:testCasesReminder 
+2018-06-06 23:35:45,398 INFO  [Log] Notification dialog after signing in is not shown 
+2018-06-06 23:35:54,077 INFO  [Log] Completed executing Login testCases 
+2018-06-06 23:35:54,085 INFO  [Log] method name:testCases 
+2018-06-06 23:36:25,550 INFO  [Log] Completed executing Notes test case 
+2018-06-06 23:36:25,552 INFO  [Log] method name:testCasesNotes 
+2018-06-06 23:38:02,239 INFO  [Log] Completed executing Reminder test case 
+2018-06-06 23:38:02,242 INFO  [Log] method name:testCasesReminder 
+2018-06-06 23:39:49,614 INFO  [Log] Notification dialog after signing in is not shown 
+2018-06-06 23:39:57,311 INFO  [Log] Completed executing Login testCases 
+2018-06-06 23:39:57,338 INFO  [Log] method name:testCases 
+2018-06-06 23:40:03,002 INFO  [Log] method name:testCasesNotes 
+2018-06-06 23:40:03,123 ERROR [Log] method name:testCasesNotes 
+2018-06-06 23:46:53,515 INFO  [Log] Notification dialog after signing in is not shown 
+2018-06-06 23:47:01,201 INFO  [Log] Completed executing Login testCases 
+2018-06-06 23:47:01,211 INFO  [Log] method name:testCases 
+2018-06-06 23:47:32,510 INFO  [Log] Completed executing Notes test case 
+2018-06-06 23:47:32,513 INFO  [Log] method name:testCasesNotes 
+2018-06-06 23:49:09,384 INFO  [Log] Completed executing Reminder test case 
+2018-06-06 23:49:09,389 INFO  [Log] method name:testCasesReminder 
+2018-06-07 00:15:39,708 INFO  [Log] Notification dialog after signing in is not shown 
+2018-06-07 00:15:48,689 INFO  [Log] method name:testCases 
+2018-06-07 00:15:48,927 ERROR [Log] method name:testCases 
+2018-06-07 00:22:59,761 INFO  [Log] Notification dialog after signing in is not shown 
+2018-06-07 00:23:07,278 INFO  [Log] method name:testCases 
+2018-06-07 00:23:07,414 ERROR [Log] method name:testCases 
+2018-06-07 00:25:33,446 INFO  [Log] Notification dialog after signing in is not shown 
+2018-06-07 00:25:41,020 INFO  [Log] method name:testCases 
+2018-06-07 00:28:30,806 INFO  [Log] Notification dialog after signing in is not shown 
+2018-06-07 00:28:38,224 INFO  [Log] method name:testCases 
+2018-06-07 00:28:38,503 ERROR [Log] method name:testCases 
+2018-06-07 00:32:29,409 INFO  [Log] Notification dialog after signing in is not shown 
+2018-06-07 00:32:37,112 INFO  [Log] Completed executing Login testCases 
+2018-06-07 00:32:37,124 INFO  [Log] method name:testCases 
+2018-06-07 00:32:43,180 INFO  [Log] method name:testCasesNotes 
+2018-06-07 00:32:43,337 ERROR [Log] method name:testCasesNotes 
+2018-06-07 00:43:07,494 INFO  [Log] method name:testCases_Notes 
+2018-06-07 00:43:07,497 ERROR [Log] method name:testCases_Notes 
+2018-06-07 01:17:01,213 INFO  [Log] Notification dialog after signing in is not shown 
+2018-06-07 01:17:08,696 INFO  [Log] Completed executing Login testCases 
+2018-06-07 01:17:08,703 INFO  [Log] method name:testCase_Login 
+2018-06-07 01:17:38,203 INFO  [Log] Completed executing Notes test case 
+2018-06-07 01:17:38,206 INFO  [Log] method name:testCases_Notes 
+2018-06-07 01:19:15,964 INFO  [Log] Completed executing Reminder test case 
+2018-06-07 01:19:15,967 INFO  [Log] method name:testCases_Reminder 
+2018-06-07 01:19:32,744 INFO  [Log] Completed executing Todos test case 
+2018-06-07 01:19:32,751 INFO  [Log] method name:testCases_Todos 
+2018-06-07 01:25:22,867 INFO  [Log] Notification dialog after signing in is not shown 
+2018-06-07 01:25:30,876 INFO  [Log] Completed executing Login testCases 
+2018-06-07 01:25:30,886 INFO  [Log] method name:testCase_Login 
+2018-06-07 01:26:03,601 INFO  [Log] Completed executing Notes test case 
+2018-06-07 01:26:03,603 INFO  [Log] method name:testCases_Notes 
+2018-06-07 01:27:41,606 INFO  [Log] Completed executing Reminder test case 
+2018-06-07 01:27:41,608 INFO  [Log] method name:testCases_Reminder 
+2018-06-07 01:27:58,230 INFO  [Log] Completed executing Todos test case 
+2018-06-07 01:27:58,238 INFO  [Log] method name:testCases_Todos 
+2018-07-05 12:32:13,126 INFO  [Log] Notification dialog after signing in is not shown 
+2018-07-05 12:32:22,707 INFO  [Log] Completed executing Login testCases 
+2018-07-05 12:32:22,710 INFO  [Log] method name:testCase_Login 
+2018-07-05 12:32:58,627 INFO  [Log] method name:testCases_Notes 
+2018-07-05 12:32:58,627 ERROR [Log] method name:testCases_Notes 
+2018-07-05 12:40:03,369 INFO  [Log] Notification dialog after signing in is not shown 
+2018-07-05 12:40:11,870 INFO  [Log] Completed executing Login testCases 
+2018-07-05 12:40:11,873 INFO  [Log] method name:testCase_Login 
+2018-07-05 12:40:47,566 INFO  [Log] method name:testCases_Notes 
+2018-07-05 12:40:47,566 ERROR [Log] method name:testCases_Notes 
+2018-07-05 13:04:09,118 INFO  [Log] Notification dialog after signing in is not shown 
+2018-07-05 13:04:17,099 INFO  [Log] Completed executing Login testCases 
+2018-07-05 13:04:17,101 INFO  [Log] method name:testCase_Login 
+2018-07-05 13:05:37,440 INFO  [Log] method name:testCases_Notes 
+2018-07-05 13:05:37,440 ERROR [Log] method name:testCases_Notes 
+2018-07-05 13:13:27,398 INFO  [Log] Notification dialog after signing in is not shown 
+2018-07-05 13:13:35,934 INFO  [Log] Completed executing Login testCases 
+2018-07-05 13:13:35,939 INFO  [Log] method name:testCase_Login 
+2018-07-05 13:14:13,309 INFO  [Log] method name:testCases_Notes 
+2018-07-05 13:14:13,309 ERROR [Log] method name:testCases_Notes 
+2018-07-05 13:57:53,169 INFO  [Log] Notification dialog after signing in is not shown 
+2018-07-05 13:58:03,960 INFO  [Log] Completed executing Login testCases 
+2018-07-05 13:58:03,962 INFO  [Log] method name:testCase_Login 
+2018-07-05 13:58:43,125 INFO  [Log] method name:testCases_Notes 
+2018-07-05 13:58:43,125 ERROR [Log] method name:testCases_Notes 
+2018-07-05 14:05:56,300 INFO  [Log] Notification dialog after signing in is not shown 
+2018-07-05 14:06:06,057 INFO  [Log] Completed executing Login testCases 
+2018-07-05 14:06:06,059 INFO  [Log] method name:testCase_Login 
+2018-07-05 14:06:42,743 INFO  [Log] method name:testCases_Notes 
+2018-07-05 14:06:42,743 ERROR [Log] method name:testCases_Notes 
+2018-07-05 14:56:37,416 INFO  [Log] Notification dialog after signing in is not shown 
+2018-07-05 14:56:47,788 INFO  [Log] Completed executing Login testCases 
+2018-07-05 14:56:47,791 INFO  [Log] method name:testCase_Login 
+2018-07-05 14:57:27,373 INFO  [Log] method name:testCases_Notes 
+2018-07-05 14:57:27,374 ERROR [Log] method name:testCases_Notes 
+2018-07-05 15:00:17,899 INFO  [Log] Notification dialog after signing in is not shown 
+2018-07-05 15:00:31,251 INFO  [Log] Completed executing Login testCases 
+2018-07-05 15:00:31,256 INFO  [Log] method name:testCase_Login 
+2018-07-05 15:01:06,739 INFO  [Log] method name:testCases_Notes 
+2018-07-05 15:01:06,740 ERROR [Log] method name:testCases_Notes 
+2018-07-05 15:04:11,328 INFO  [Log] Notification dialog after signing in is not shown 
+2018-07-05 15:04:19,761 INFO  [Log] Completed executing Login testCases 
+2018-07-05 15:04:19,773 INFO  [Log] method name:testCase_Login 
+2018-07-05 15:04:25,102 INFO  [Log] method name:testCases_Notes 
+2018-07-05 15:04:25,103 ERROR [Log] method name:testCases_Notes 
+2018-07-05 15:06:07,054 INFO  [Log] Notification dialog after signing in is not shown 
+2018-07-05 15:06:18,588 INFO  [Log] Completed executing Login testCases 
+2018-07-05 15:06:18,591 INFO  [Log] method name:testCase_Login 
+2018-07-05 15:07:03,274 INFO  [Log] method name:testCases_Notes 
+2018-07-05 15:07:03,274 ERROR [Log] method name:testCases_Notes 
+2018-07-05 15:14:30,731 INFO  [Log] Notification dialog after signing in is not shown 
+2018-07-05 15:14:40,258 INFO  [Log] Completed executing Login testCases 
+2018-07-05 15:14:40,262 INFO  [Log] method name:testCase_Login 
+2018-07-05 15:15:19,519 INFO  [Log] method name:testCases_Notes 
+2018-07-05 15:15:19,521 ERROR [Log] method name:testCases_Notes 
+2018-07-05 15:21:06,780 INFO  [Log] Notification dialog after signing in is not shown 
+2018-07-05 15:21:17,421 INFO  [Log] Completed executing Login testCases 
+2018-07-05 15:21:17,426 INFO  [Log] method name:testCase_Login 
+2018-07-05 15:21:56,572 INFO  [Log] method name:testCases_Notes 
+2018-07-05 15:21:56,572 ERROR [Log] method name:testCases_Notes 
+2018-07-05 15:27:54,950 INFO  [Log] Notification dialog after signing in is not shown 
+2018-07-05 15:28:05,619 INFO  [Log] Completed executing Login testCases 
+2018-07-05 15:28:05,623 INFO  [Log] method name:testCase_Login 
+2018-07-05 15:28:45,033 INFO  [Log] method name:testCases_Notes 
+2018-07-05 15:28:45,033 ERROR [Log] method name:testCases_Notes 
+2018-07-05 15:31:05,612 INFO  [Log] Notification dialog after signing in is not shown 
+2018-07-05 15:31:17,321 INFO  [Log] Completed executing Login testCases 
+2018-07-05 15:31:17,329 INFO  [Log] method name:testCase_Login 
+2018-07-05 15:31:56,784 INFO  [Log] method name:testCases_Notes 
+2018-07-05 15:31:56,784 ERROR [Log] method name:testCases_Notes 
+2018-07-05 16:49:05,645 INFO  [Log] Notification dialog after signing in is not shown 
+2018-07-05 16:49:18,254 INFO  [Log] Completed executing Login testCases 
+2018-07-05 16:49:18,271 INFO  [Log] method name:testCase_Login 
+2018-07-05 16:49:54,632 INFO  [Log] method name:testCases_Notes 
+2018-07-05 16:49:54,633 ERROR [Log] method name:testCases_Notes 
+2018-07-05 17:48:23,826 INFO  [Log] Notification dialog after signing in is not shown 
+2018-07-05 17:48:31,811 INFO  [Log] Completed executing Login testCases 
+2018-07-05 17:48:31,814 INFO  [Log] method name:testCase_Login 
+2018-07-05 17:49:08,329 INFO  [Log] method name:testCases_Notes 
+2018-07-05 17:49:08,329 ERROR [Log] method name:testCases_Notes 
+2018-07-05 17:51:42,910 INFO  [Log] Notification dialog after signing in is not shown 
+2018-07-05 17:51:51,942 INFO  [Log] Completed executing Login testCases 
+2018-07-05 17:51:51,949 INFO  [Log] method name:testCase_Login 
+2018-07-05 17:52:27,521 INFO  [Log] method name:testCases_Notes 
+2018-07-05 17:52:27,521 ERROR [Log] method name:testCases_Notes 
+2018-07-05 17:55:49,573 INFO  [Log] Notification dialog after signing in is not shown 
+2018-07-05 17:55:57,401 INFO  [Log] Completed executing Login testCases 
+2018-07-05 17:55:57,407 INFO  [Log] method name:testCase_Login 
+2018-07-05 17:56:36,864 INFO  [Log] method name:testCases_Notes 
+2018-07-05 17:56:36,864 ERROR [Log] method name:testCases_Notes 
+2018-07-05 17:58:52,699 INFO  [Log] Notification dialog after signing in is not shown 
+2018-07-05 17:59:00,359 INFO  [Log] Completed executing Login testCases 
+2018-07-05 17:59:00,363 INFO  [Log] method name:testCase_Login 
+2018-07-05 17:59:39,759 INFO  [Log] method name:testCases_Notes 
+2018-07-05 17:59:39,759 ERROR [Log] method name:testCases_Notes 
+2018-07-06 00:12:35,153 INFO  [Log] Notification dialog after signing in is not shown 
+2018-07-06 00:12:43,369 INFO  [Log] Completed executing Login testCases 
+2018-07-06 00:12:43,369 INFO  [Log] method name:testCase_Login 
+2018-07-06 00:13:19,870 INFO  [Log] method name:testCases_Notes 
+2018-07-06 00:13:19,870 ERROR [Log] method name:testCases_Notes 
+2018-07-06 01:46:03,506 INFO  [Log] Notification dialog after signing in is not shown 
+2018-07-06 01:46:11,125 INFO  [Log] Completed executing Login testCases 
+2018-07-06 01:46:11,128 INFO  [Log] method name:testCase_Login 
+2018-07-06 01:46:47,838 INFO  [Log] method name:testCases_Notes 
+2018-07-06 01:46:47,838 ERROR [Log] method name:testCases_Notes 
+2018-07-06 02:10:13,487 INFO  [Log] Notification dialog after signing in is not shown 
+2018-07-06 02:10:21,005 INFO  [Log] Completed executing Login testCases 
+2018-07-06 02:10:21,010 INFO  [Log] method name:testCase_Login 
+2018-07-06 02:10:57,748 INFO  [Log] method name:testCases_Notes 
+2018-07-06 02:10:57,748 ERROR [Log] method name:testCases_Notes 
+2018-07-06 10:32:14,895 INFO  [Log] Notification dialog after signing in is not shown 
+2018-07-06 10:32:22,752 INFO  [Log] Completed executing Login testCases 
+2018-07-06 10:32:22,756 INFO  [Log] method name:testCase_Login 
+2018-07-06 10:32:59,178 INFO  [Log] method name:testCases_Notes 
+2018-07-06 10:32:59,178 ERROR [Log] method name:testCases_Notes 
+2018-07-06 10:37:19,871 INFO  [Log] Notification dialog after signing in is not shown 
+2018-07-06 10:37:27,588 INFO  [Log] Completed executing Login testCases 
+2018-07-06 10:37:27,593 INFO  [Log] method name:testCase_Login 
+2018-07-06 10:38:03,281 INFO  [Log] method name:testCases_Notes 
+2018-07-06 10:38:03,281 ERROR [Log] method name:testCases_Notes 
+2018-07-06 10:41:00,027 INFO  [Log] Notification dialog after signing in is not shown 
+2018-07-06 10:41:07,409 INFO  [Log] Completed executing Login testCases 
+2018-07-06 10:41:07,410 INFO  [Log] method name:testCase_Login 
+2018-07-06 10:41:43,157 INFO  [Log] method name:testCases_Notes 
+2018-07-06 10:41:43,157 ERROR [Log] method name:testCases_Notes 
+2018-07-06 10:50:50,726 INFO  [Log] Notification dialog after signing in is not shown 
+2018-07-06 10:50:58,393 INFO  [Log] Completed executing Login testCases 
+2018-07-06 10:50:58,398 INFO  [Log] method name:testCase_Login 
+2018-07-06 10:51:34,786 INFO  [Log] method name:testCases_Notes 
+2018-07-06 10:51:34,786 ERROR [Log] method name:testCases_Notes 
+2018-07-06 10:53:26,780 INFO  [Log] Notification dialog after signing in is not shown 
+2018-07-06 10:53:34,295 INFO  [Log] Completed executing Login testCases 
+2018-07-06 10:53:34,300 INFO  [Log] method name:testCase_Login 
+2018-07-06 10:54:10,617 INFO  [Log] method name:testCases_Notes 
+2018-07-06 10:54:10,617 ERROR [Log] method name:testCases_Notes 
+2018-07-06 11:14:49,941 INFO  [Log] method name:testCase_Login 
+2018-07-06 11:14:49,941 ERROR [Log] method name:testCase_Login 
+2018-07-06 11:16:24,031 INFO  [Log] method name:testCase_Login 
+2018-07-06 11:16:24,032 ERROR [Log] method name:testCase_Login 
+2018-07-06 11:23:37,463 INFO  [Log] Notification dialog after signing in is not shown 
+2018-07-06 11:23:46,119 INFO  [Log] Completed executing Login testCases 
+2018-07-06 11:23:46,126 INFO  [Log] method name:testCase_Login 
+2018-07-06 11:24:56,164 INFO  [Log] method name:testCases_Notes 
+2018-07-06 11:24:56,164 ERROR [Log] method name:testCases_Notes 
+2018-07-06 11:33:44,630 INFO  [Log] Notification dialog after signing in is not shown 
+2018-07-06 11:33:53,945 INFO  [Log] Completed executing Login testCases 
+2018-07-06 11:33:53,948 INFO  [Log] method name:testCase_Login 
+2018-07-06 11:34:29,489 INFO  [Log] method name:testCases_Notes 
+2018-07-06 11:34:29,489 ERROR [Log] method name:testCases_Notes 
+2018-07-06 11:39:27,061 INFO  [Log] method name:testCase_Login 
+2018-07-06 11:39:27,061 ERROR [Log] method name:testCase_Login 
+2018-07-06 11:41:01,899 INFO  [Log] Notification dialog after signing in is not shown 
+2018-07-06 11:41:11,812 INFO  [Log] Completed executing Login testCases 
+2018-07-06 11:41:11,815 INFO  [Log] method name:testCase_Login 
+2018-07-06 11:41:51,016 INFO  [Log] method name:testCases_Notes 
+2018-07-06 11:41:51,016 ERROR [Log] method name:testCases_Notes 
+2018-07-06 11:43:44,741 INFO  [Log] method name:testCase_Login 
+2018-07-06 11:43:44,741 ERROR [Log] method name:testCase_Login 
+2018-07-06 11:54:32,888 INFO  [Log] Notification dialog after signing in is not shown 
+2018-07-06 11:54:41,756 INFO  [Log] Completed executing Login testCases 
+2018-07-06 11:54:41,760 INFO  [Log] method name:testCase_Login 
+2018-07-06 11:55:21,422 INFO  [Log] method name:testCases_Notes 
+2018-07-06 11:55:21,422 ERROR [Log] method name:testCases_Notes 
+2018-07-06 11:58:30,514 INFO  [Log] Notification dialog after signing in is not shown 
+2018-07-06 11:58:40,136 INFO  [Log] Completed executing Login testCases 
+2018-07-06 11:58:40,138 INFO  [Log] method name:testCase_Login 
+2018-07-06 11:59:19,346 INFO  [Log] method name:testCases_Notes 
+2018-07-06 11:59:19,347 ERROR [Log] method name:testCases_Notes 
+2018-07-06 12:03:16,419 INFO  [Log] method name:testCase_Login 
+2018-07-06 12:03:16,419 ERROR [Log] method name:testCase_Login 
+2018-07-06 12:06:06,246 INFO  [Log] method name:testCase_Login 
+2018-07-06 12:06:06,247 ERROR [Log] method name:testCase_Login 
+2018-07-06 12:07:19,564 INFO  [Log] Notification dialog after signing in is not shown 
+2018-07-06 12:07:27,822 INFO  [Log] Completed executing Login testCases 
+2018-07-06 12:07:27,826 INFO  [Log] method name:testCase_Login 
+2018-07-06 12:08:07,005 INFO  [Log] method name:testCases_Notes 
+2018-07-06 12:08:07,005 ERROR [Log] method name:testCases_Notes 
+2018-07-06 12:10:41,365 INFO  [Log] method name:testCase_Login 
+2018-07-06 12:10:41,365 ERROR [Log] method name:testCase_Login 
+2018-07-06 12:35:14,551 INFO  [Log] method name:testCase_Login 
+2018-07-06 12:35:14,552 ERROR [Log] method name:testCase_Login 
+2018-07-06 12:42:51,834 INFO  [Log] method name:testCase_Login 
+2018-07-06 12:42:51,834 ERROR [Log] method name:testCase_Login 
+2018-07-06 13:01:27,709 INFO  [Log] method name:testCase_Login 
+2018-07-06 13:01:27,709 ERROR [Log] method name:testCase_Login 
+2018-07-06 13:20:57,157 INFO  [Log] method name:testCase_Login 
+2018-07-06 13:20:57,157 ERROR [Log] method name:testCase_Login 
+2018-07-06 13:23:17,777 INFO  [Log] method name:testCase_Login 
+2018-07-06 13:23:17,779 ERROR [Log] method name:testCase_Login 
+2018-07-06 13:28:20,745 INFO  [Log] Notification dialog after signing in is not shown 
+2018-07-06 13:28:44,100 INFO  [Log] Completed executing Login testCases 
+2018-07-06 13:28:44,104 INFO  [Log] method name:testCase_Login 
+2018-07-06 13:29:23,233 INFO  [Log] method name:testCases_Notes 
+2018-07-06 13:29:23,233 ERROR [Log] method name:testCases_Notes 
+2018-07-06 13:42:34,495 INFO  [Log] method name:testCase_Login 
+2018-07-06 13:42:34,496 ERROR [Log] method name:testCase_Login 
+2018-07-06 13:50:15,438 INFO  [Log] Notification dialog after signing in is not shown 
+2018-07-06 13:50:23,411 INFO  [Log] Completed executing Login testCases 
+2018-07-06 13:50:23,415 INFO  [Log] method name:testCase_Login 
+2018-07-06 13:50:58,954 INFO  [Log] method name:testCases_Notes 
+2018-07-06 13:50:58,954 ERROR [Log] method name:testCases_Notes 
+2018-07-06 13:52:52,101 INFO  [Log] Notification dialog after signing in is not shown 
+2018-07-06 13:53:00,588 INFO  [Log] Completed executing Login testCases 
+2018-07-06 13:53:00,594 INFO  [Log] method name:testCase_Login 
+2018-07-06 13:53:05,998 INFO  [Log] method name:testCases_Notes 
+2018-07-06 13:53:05,998 ERROR [Log] method name:testCases_Notes 
+2018-07-06 13:54:31,548 INFO  [Log] Notification dialog after signing in is not shown 
+2018-07-06 13:54:40,026 INFO  [Log] Completed executing Login testCases 
+2018-07-06 13:54:40,028 INFO  [Log] method name:testCase_Login 
+2018-07-06 13:55:15,357 INFO  [Log] method name:testCases_Notes 
+2018-07-06 13:55:15,357 ERROR [Log] method name:testCases_Notes 
+2018-07-06 13:58:34,966 INFO  [Log] Notification dialog after signing in is not shown 
+2018-07-06 13:58:44,458 INFO  [Log] Completed executing Login testCases 
+2018-07-06 13:58:44,464 INFO  [Log] method name:testCase_Login 
+2018-07-06 13:59:20,248 INFO  [Log] method name:testCases_Notes 
+2018-07-06 13:59:20,248 ERROR [Log] method name:testCases_Notes 
+2018-07-06 14:00:47,973 INFO  [Log] Notification dialog after signing in is not shown 
+2018-07-06 14:00:58,237 INFO  [Log] Completed executing Login testCases 
+2018-07-06 14:00:58,246 INFO  [Log] method name:testCase_Login 
+2018-07-06 14:01:34,103 INFO  [Log] method name:testCases_Notes 
+2018-07-06 14:01:34,103 ERROR [Log] method name:testCases_Notes 
+2018-07-06 14:03:28,171 INFO  [Log] Notification dialog after signing in is not shown 
+2018-07-06 14:03:38,061 INFO  [Log] Completed executing Login testCases 
+2018-07-06 14:03:38,062 INFO  [Log] method name:testCase_Login 
+2018-07-06 14:04:14,835 INFO  [Log] method name:testCases_Notes 
+2018-07-06 14:04:14,835 ERROR [Log] method name:testCases_Notes 
+2018-07-06 14:05:01,991 INFO  [Log] Notification dialog after signing in is not shown 
+2018-07-06 14:05:09,768 INFO  [Log] Completed executing Login testCases 
+2018-07-06 14:05:09,768 INFO  [Log] method name:testCase_Login 
+2018-07-06 14:05:45,346 INFO  [Log] method name:testCases_Notes 
+2018-07-06 14:05:45,346 ERROR [Log] method name:testCases_Notes 
+2018-07-06 14:11:45,796 INFO  [Log] Notification dialog after signing in is not shown 
+2018-07-06 14:11:53,969 INFO  [Log] Completed executing Login testCases 
+2018-07-06 14:11:53,970 INFO  [Log] method name:testCase_Login 
+2018-07-06 14:12:30,635 INFO  [Log] method name:testCases_Notes 
+2018-07-06 14:12:30,635 ERROR [Log] method name:testCases_Notes 
+2018-07-09 18:48:10,244 INFO  [Log] method name:testCase_Login 
+2018-07-09 18:48:10,245 ERROR [Log] method name:testCase_Login 
+2018-07-09 18:52:34,425 INFO  [Log] Notification dialog after signing in is not shown 
+2018-07-09 18:52:44,383 INFO  [Log] Completed executing Login testCases 
+2018-07-09 18:52:44,386 INFO  [Log] method name:testCase_Login 
+2018-07-09 18:53:20,623 INFO  [Log] method name:testCases_Notes 
+2018-07-09 18:53:20,623 ERROR [Log] method name:testCases_Notes 
+2018-07-09 18:53:55,414 INFO  [Log] method name:testCase_Login 
+2018-07-09 18:53:55,414 ERROR [Log] method name:testCase_Login 
+2018-07-09 18:56:22,361 INFO  [Log] method name:testCase_Login 
+2018-07-09 18:56:22,362 ERROR [Log] method name:testCase_Login 
+2018-07-09 19:00:18,901 INFO  [Log] method name:testCase_Login 
+2018-07-09 19:00:18,901 ERROR [Log] method name:testCase_Login 
+2018-07-09 19:08:12,454 INFO  [Log] method name:testCase_Login 
+2018-07-09 19:08:12,454 ERROR [Log] method name:testCase_Login 
+2018-07-09 22:08:37,768 INFO  [Log] method name:testCase_Login 
+2018-07-09 22:08:37,771 ERROR [Log] method name:testCase_Login 
+2018-07-09 22:11:06,543 INFO  [Log] method name:testCase_Login 
+2018-07-09 22:11:06,543 ERROR [Log] method name:testCase_Login 
+2018-07-10 11:48:48,546 INFO  [Log] Completed executing Login testCases 
+2018-07-10 11:49:24,912 ERROR [Log] Failed method name:testCases_Notes 
+2018-07-10 16:12:22,003 INFO  [Log] Completed executing Login testCases 
+2018-07-10 16:13:22,233 ERROR [Log] Failed method name:testCases_Notes 
+2018-07-10 16:23:19,053 ERROR [Log] Failed method name:testCases_Reminder 
+2018-07-10 17:30:35,104 INFO  [Log] Completed executing Login testCases 
+2018-07-10 17:31:11,319 ERROR [Log] Failed method name:testCases_Notes 
+2018-07-10 17:33:40,322 INFO  [Log] Completed executing Login testCases 
+2018-07-10 17:34:17,296 ERROR [Log] Failed method name:testCases_Notes 
